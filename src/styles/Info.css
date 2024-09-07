@@ -1,0 +1,10 @@
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  background-color: aliceblue;
+}
+
+.info-explain {
+  margin: 20px;
+}

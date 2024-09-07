@@ -1,0 +1,13 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menuList {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  gap: 100px;
+  margin: 20px;
+}

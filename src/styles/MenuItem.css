@@ -1,0 +1,28 @@
+.menuItem {
+  width: 230px;
+  height: 350px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(215, 213, 213);
+  border: 2px solid rgba(245, 245, 56, 0.544);
+  border-radius: 10px;
+}
+
+.menuItem img {
+  width: 230px;
+  height: 200px;
+  border-radius: 10px 10px 0px 0px;
+  margin-top: -26px;
+}
+
+span {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 20px;
+}

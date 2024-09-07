@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(39, 38, 38);
+  gap: 30px;
+  padding: 10px 110px;
+}
+
+.leftside {
+  color: red;
+  font-size: 50px;
+}
+
+.rightside a {
+  font-size: 30;
+  text-decoration: none;
+  color: white;
+  padding: 25px;
+  gap: 20px;
+}
